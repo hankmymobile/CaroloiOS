@@ -1,0 +1,6 @@
+framework module Pods_GrupoCaroloLoyalty {
+  umbrella header "Pods-GrupoCaroloLoyalty-umbrella.h"
+
+  export *
+  module * { export * }
+}
